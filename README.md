@@ -13,3 +13,10 @@ cd simple-portfolio-tracker
 
 Start the frontend development server with:
 npm run dev
+
+Show Case of our Simple Portfolio Project
+![image](https://github.com/user-attachments/assets/e4f4cb00-6e68-4d3a-a5dd-ba12dba19e70)
+
+
+
+
