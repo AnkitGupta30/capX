@@ -3,6 +3,9 @@ Navigate to the backend directory and start the server using one of the followin
 node server.js
 Or, for automatic server restarts during development: npx nodemon.
 
+Here the backend live link
+https://backend-5wba.onrender.com
+
 Frontend Server:
 
 Move into the simple-portfolio-tracker directory:
