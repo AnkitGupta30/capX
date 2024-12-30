@@ -1,2 +1,12 @@
-First of all we start the server from the backend with command node server.js or npx nodemon
-Then we move the simple-portfolio-tracker with the command of cd simple-portfolio-tracker and start the server with the npm run dev command
+Starting the backend Servers
+Navigate to the backend directory and start the server using one of the following commands:
+node server.js
+Or, for automatic server restarts during development: npx nodemon.
+
+Frontend Server:
+
+Move into the simple-portfolio-tracker directory:
+cd simple-portfolio-tracker
+
+Start the frontend development server with:
+npm run dev
