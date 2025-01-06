@@ -4,8 +4,8 @@ import StockForm from "./components/StockForm";
 import StockList from "./components/StockList";
 import PortfolioSummary from "./components/PortfolioSummary";
 
-// const API_BASE_URL = "http://localhost:5000/api";
-const API_BASE_URL = "https://backend-5wba.onrender.com/api";
+const API_BASE_URL = "http://localhost:5000/api";
+// const API_BASE_URL = "https://backend-5wba.onrender.com/api";
 // const API_BASE_URL = "https://backend-uej6.onrender.com/api";
 
 function App() {
